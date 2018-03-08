@@ -1,0 +1,368 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+                              ./src/cr_startup_lpc11xx.o (SystemInit)
+c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc11xx.o (__main)
+c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+                              ./src/DDL_Lab3.o (__aeabi_uidiv)
+c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+                              c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/DDL_Lab3.o
+ .group         0x00000000        0x8 ./src/DDL_Lab3.o
+ .group         0x00000000        0x8 ./src/DDL_Lab3.o
+ .group         0x00000000        0x8 ./src/DDL_Lab3.o
+ .group         0x00000000        0x8 ./src/DDL_Lab3.o
+ .group         0x00000000        0x8 ./src/DDL_Lab3.o
+ .group         0x00000000        0x8 ./src/DDL_Lab3.o
+ .group         0x00000000        0x8 ./src/DDL_Lab3.o
+ .group         0x00000000        0x8 ./src/DDL_Lab3.o
+ .group         0x00000000        0x8 ./src/DDL_Lab3.o
+ .text          0x00000000        0x0 ./src/DDL_Lab3.o
+ .data          0x00000000        0x0 ./src/DDL_Lab3.o
+ .bss           0x00000000        0x0 ./src/DDL_Lab3.o
+ .bss.TimerInterval
+                0x00000000        0x4 ./src/DDL_Lab3.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc11xx.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc11xx.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc11xx.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc11xx.o
+ .debug_macro   0x00000000      0x83e ./src/cr_startup_lpc11xx.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0x83e ./src/crp.o
+ .group         0x00000000        0x8 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .group         0x00000000        0x8 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .group         0x00000000        0x8 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .group         0x00000000        0x8 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .group         0x00000000        0x8 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .group         0x00000000        0x8 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .group         0x00000000        0x8 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .group         0x00000000        0x8 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .group         0x00000000        0x8 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .text          0x00000000        0x0 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .data          0x00000000        0x0 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .bss           0x00000000        0x0 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0xb0 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .rodata.CSWTCH.7
+                0x00000000       0x40 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .debug_macro   0x00000000       0x1f C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .debug_macro   0x00000000      0x242 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .debug_macro   0x00000000      0x131 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .text          0x00000000        0x0 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .data          0x00000000        0x0 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .bss           0x00000000        0x0 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .text          0x00000000        0x0 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash64         0x00000000         0x00010000         xr
+RamLoc8          0x10000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/DDL_Lab3.o
+LOAD ./src/cr_startup_lpc11xx.o
+LOAD ./src/crp.o
+LOAD C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a
+START GROUP
+LOAD c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a
+LOAD c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a
+END GROUP
+                0x00000000                __base_MFlash64 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00010000                __top_MFlash64 = 0x10000
+                0x00010000                __top_Flash = 0x10000
+                0x10000000                __base_RamLoc8 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10002000                __top_RamLoc8 = 0x10002000
+                0x10002000                __top_RAM = 0x10002000
+
+.text           0x00000000      0x80c
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./src/cr_startup_lpc11xx.o
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0x80c LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c8        0x4 LONG 0xc SIZEOF (.data)
+                0x000000cc                __data_section_table_end = .
+                0x000000cc                __bss_section_table = .
+                0x000000cc        0x4 LONG 0x1000000c ADDR (.bss)
+                0x000000d0        0x4 LONG 0x10 SIZEOF (.bss)
+                0x000000d4                __bss_section_table_end = .
+                0x000000d4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4      0x124 ./src/cr_startup_lpc11xx.o
+                0x000000d4                data_init
+                0x00000114                bss_init
+                0x00000148                ResetISR
+                0x000001c8                NMI_Handler
+                0x000001d0                HardFault_Handler
+                0x000001d8                SVC_Handler
+                0x000001e0                PendSV_Handler
+                0x000001e8                SysTick_Handler
+                0x000001f0                PIOINT1_IRQHandler
+                0x000001f0                CAN_IRQHandler
+                0x000001f0                IntDefaultHandler
+                0x000001f0                TIMER32_1_IRQHandler
+                0x000001f0                UART_IRQHandler
+                0x000001f0                TIMER16_1_IRQHandler
+                0x000001f0                ADC_IRQHandler
+                0x000001f0                SSP1_IRQHandler
+                0x000001f0                BOD_IRQHandler
+                0x000001f0                WAKEUP_IRQHandler
+                0x000001f0                PIOINT0_IRQHandler
+                0x000001f0                I2C_IRQHandler
+                0x000001f0                WDT_IRQHandler
+                0x000001f0                TIMER16_0_IRQHandler
+                0x000001f0                SSP0_IRQHandler
+                0x000001f0                PIOINT3_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x000001f8      0x104 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.NVIC_EnableIRQ
+                0x00000300       0x2c ./src/DDL_Lab3.o
+ .text.NVIC_SetPriority
+                0x0000032c       0xdc ./src/DDL_Lab3.o
+ .text.GPIOInit
+                0x00000408       0xbc ./src/DDL_Lab3.o
+                0x00000408                GPIOInit
+ .text.TIMERInit
+                0x000004c4       0xf8 ./src/DDL_Lab3.o
+                0x000004c4                TIMERInit
+ .text.PIOINT2_IRQHandler
+                0x000005bc       0x88 ./src/DDL_Lab3.o
+                0x000005bc                PIOINT2_IRQHandler
+ .text.TIMER32_0_IRQHandler
+                0x00000644       0xa0 ./src/DDL_Lab3.o
+                0x00000644                TIMER32_0_IRQHandler
+ .text.main     0x000006e4       0x10 ./src/DDL_Lab3.o
+                0x000006e4                main
+ .text.SystemInit
+                0x000006f4       0x94 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+                0x000006f4                SystemInit
+ .text.__weak_main
+                0x00000788        0x8 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                0x00000788                __weak_main
+                0x00000788                __main
+ .text.__aeabi_division_idivmod
+                0x00000790       0x78 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+                0x00000790                __aeabi_idivmod
+                0x00000790                __aeabi_idiv
+                0x00000796                __aeabi_uidivmod
+                0x00000796                __aeabi_uidiv
+ .text.__aeabi_division_idiv0
+                0x00000808        0x2 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+                0x00000808                __aeabi_idiv0
+ *(.rodata .rodata.* .constdata .constdata.*)
+                0x0000080c                . = ALIGN (0x4)
+ *fill*         0x0000080a        0x2 ff
+
+.glue_7         0x0000080c        0x0
+ .glue_7        0x0000080c        0x0 linker stubs
+
+.glue_7t        0x0000080c        0x0
+ .glue_7t       0x0000080c        0x0 linker stubs
+
+.vfp11_veneer   0x0000080c        0x0
+ .vfp11_veneer  0x0000080c        0x0 linker stubs
+
+.v4_bx          0x0000080c        0x0
+ .v4_bx         0x0000080c        0x0 linker stubs
+
+.iplt           0x0000080c        0x0
+ .iplt          0x0000080c        0x0 ./src/DDL_Lab3.o
+
+.rel.dyn        0x0000080c        0x0
+ .rel.iplt      0x0000080c        0x0 ./src/DDL_Lab3.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000080c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000080c                __exidx_end = .
+                0x0000080c                _etext = .
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0xc load address 0x0000080c
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.DUTY_CYCLE
+                0x10000000        0x4 ./src/DDL_Lab3.o
+                0x10000000                DUTY_CYCLE
+ .data.period   0x10000004        0x4 ./src/DDL_Lab3.o
+                0x10000004                period
+ .data.SystemCoreClock
+                0x10000008        0x4 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+                0x10000008                SystemCoreClock
+                0x1000000c                . = ALIGN (0x4)
+                0x1000000c                _edata = .
+
+.igot.plt       0x1000000c        0x0 load address 0x00000818
+ .igot.plt      0x1000000c        0x0 ./src/DDL_Lab3.o
+
+.bss            0x1000000c       0x10 load address 0x00000818
+                0x1000000c                _bss = .
+ *(.bss*)
+ .bss.gpio2_counter
+                0x1000000c        0x4 ./src/DDL_Lab3.o
+                0x1000000c                gpio2_counter
+ .bss.timer32_0_counter
+                0x10000010        0x4 ./src/DDL_Lab3.o
+                0x10000010                timer32_0_counter
+ .bss.timer32_1_counter
+                0x10000014        0x4 ./src/DDL_Lab3.o
+                0x10000014                timer32_1_counter
+ .bss.last_period_count
+                0x10000018        0x4 ./src/DDL_Lab3.o
+                0x10000018                last_period_count
+ *(COMMON)
+                0x1000001c                . = ALIGN (0x4)
+                0x1000001c                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit         0x1000001c        0x0 load address 0x00000818
+                0x1000001c                _noinit = .
+ *(.noinit*)
+                0x1000001c                . = ALIGN (0x4)
+                0x1000001c                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10002000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc8 - 0x0))
+                0xefffdb1d                PROVIDE (__valid_user_code_checksum, (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+OUTPUT(DDL_Lab3.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x132f
+ .debug_info    0x00000000      0xc97 ./src/DDL_Lab3.o
+ .debug_info    0x00000c97      0x203 ./src/cr_startup_lpc11xx.o
+ .debug_info    0x00000e9a       0x3f ./src/crp.o
+ .debug_info    0x00000ed9      0x456 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+
+.debug_abbrev   0x00000000      0x443
+ .debug_abbrev  0x00000000      0x221 ./src/DDL_Lab3.o
+ .debug_abbrev  0x00000221       0xe6 ./src/cr_startup_lpc11xx.o
+ .debug_abbrev  0x00000307       0x36 ./src/crp.o
+ .debug_abbrev  0x0000033d      0x106 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+
+.debug_aranges  0x00000000       0xf0
+ .debug_aranges
+                0x00000000       0x50 ./src/DDL_Lab3.o
+ .debug_aranges
+                0x00000050       0x60 ./src/cr_startup_lpc11xx.o
+ .debug_aranges
+                0x000000b0       0x18 ./src/crp.o
+ .debug_aranges
+                0x000000c8       0x28 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+
+.debug_ranges   0x00000000       0xa8
+ .debug_ranges  0x00000000       0x40 ./src/DDL_Lab3.o
+ .debug_ranges  0x00000040       0x50 ./src/cr_startup_lpc11xx.o
+ .debug_ranges  0x00000090       0x18 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+
+.debug_macro    0x00000000     0x1dfa
+ .debug_macro   0x00000000       0x7f ./src/DDL_Lab3.o
+ .debug_macro   0x0000007f      0x83e ./src/DDL_Lab3.o
+ .debug_macro   0x000008bd       0x1c ./src/DDL_Lab3.o
+ .debug_macro   0x000008d9       0x3a ./src/DDL_Lab3.o
+ .debug_macro   0x00000913       0x10 ./src/DDL_Lab3.o
+ .debug_macro   0x00000923      0x12d ./src/DDL_Lab3.o
+ .debug_macro   0x00000a50      0x5b2 ./src/DDL_Lab3.o
+ .debug_macro   0x00001002       0x1f ./src/DDL_Lab3.o
+ .debug_macro   0x00001021      0x242 ./src/DDL_Lab3.o
+ .debug_macro   0x00001263      0x131 ./src/DDL_Lab3.o
+ .debug_macro   0x00001394       0x82 ./src/DDL_Lab3.o
+ .debug_macro   0x00001416       0x1d ./src/cr_startup_lpc11xx.o
+ .debug_macro   0x00001433       0x1a ./src/crp.o
+ .debug_macro   0x0000144d       0x34 ./src/crp.o
+ .debug_macro   0x00001481      0x13b C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .debug_macro   0x000015bc      0x83e C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+
+.debug_line     0x00000000      0x64c
+ .debug_line    0x00000000      0x2da ./src/DDL_Lab3.o
+ .debug_line    0x000002da       0xba ./src/cr_startup_lpc11xx.o
+ .debug_line    0x00000394       0x8a ./src/crp.o
+ .debug_line    0x0000041e      0x22e C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+
+.debug_str      0x00000000     0x6385
+ .debug_str     0x00000000     0x5c7d ./src/DDL_Lab3.o
+                               0x5cfb (size before relaxing)
+ .debug_str     0x00005c7d      0x178 ./src/cr_startup_lpc11xx.o
+                               0x252b (size before relaxing)
+ .debug_str     0x00005df5       0xe9 ./src/crp.o
+                               0x248d (size before relaxing)
+ .debug_str     0x00005ede      0x4a7 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+                               0x571f (size before relaxing)
+
+.comment        0x00000000       0xdc
+ .comment       0x00000000       0x6e ./src/DDL_Lab3.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./src/cr_startup_lpc11xx.o
+ .comment       0x0000006e       0x6f ./src/crp.o
+ .comment       0x0000006e       0x6f C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .comment       0x0000006e       0x6e c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                                 0x6f (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x31 ./src/DDL_Lab3.o
+ .ARM.attributes
+                0x00000031       0x31 ./src/cr_startup_lpc11xx.o
+ .ARM.attributes
+                0x00000062       0x31 ./src/crp.o
+ .ARM.attributes
+                0x00000093       0x31 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+ .ARM.attributes
+                0x000000c4       0x31 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x000000f5       0x21 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .ARM.attributes
+                0x00000116       0x21 c:/users/derek/documents/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+
+.debug_frame    0x00000000      0x240
+ .debug_frame   0x00000000       0xe8 ./src/DDL_Lab3.o
+ .debug_frame   0x000000e8      0x118 ./src/cr_startup_lpc11xx.o
+ .debug_frame   0x00000200       0x40 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
+
+.debug_loc      0x00000000       0x84
+ .debug_loc     0x00000000       0x84 C:\Users\derek\Documents\LPCXpresso_8.2.2_650\workspace\CMSIS_CORE_LPC11xx\Debug\libCMSIS_CORE_LPC11xx.a(system_LPC11xx.o)
